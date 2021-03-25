@@ -1,0 +1,11 @@
+#groupTitle {
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+#group-names {
+    text-align: left;
+    font-size: x-large;
+    width: 65%;
+    margin: auto;
+}
